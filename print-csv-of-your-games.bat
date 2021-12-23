@@ -1,0 +1,1 @@
+legendary list-games --csv >> epic-games.csv
