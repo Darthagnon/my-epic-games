@@ -29,7 +29,7 @@ Coley,Ape Out,1.0.0,False
 ARKDevKit,ARK Editor,334.0,False
 aafc587fbf654758802c8e41e4fb3255,ARK: Survival Evolved,341.36.1.win,False
 Albacore,Assassins Creed Syndicate,1.54,False
-Junco,Atlas Mod Kit,523.0,False
+Junco,Atlas Mod Kit,535.0,False
 Chicken,Auto Chess,2.7.6,False
 ChickenExperimental,Auto Chess Experimental,2.7.0,False
 069a60f6b0514a5fbe81b38957c1ddfd,Automachef,9,False
@@ -67,7 +67,7 @@ Violetear,Costume Quest,1,False
 afdf59e3dc8f40ec8fd887b5d3fcef23,Crashlands,epic_release_1.5.87_1.5.87-rc.5_windows_1626207781026,False
 a0a49d82e3f64c1b81873397a6e92f09,Crayta,0.e3.63.114111,False
 a579a08e71b341e6af106dbd170e2ab2,Creature in the Well,1.0.0-137001-1,False
-34eda78a6b24468f9fb70d73793bdaab,CRSED: F.O.A.D.,2.0.6.111-164-Windows,False
+34eda78a6b24468f9fb70d73793bdaab,CRSED: F.O.A.D.,2.0.6.114-165-Windows,False
 18fafa2d70d64831ab500a9d65ba9ab8,Crying Suns,2.2.5.14-WIN64,False
 c35b9699c4e24c56976b5bd8eceba464,Dandara: Trials of Fear Edition,1.4.11-pc,False
 DarkAndLightEditor,Dark and Light Editor,34069-4190664-Windows,False
@@ -86,7 +86,7 @@ a434dcb20f0d439b93aaa31dac9e3210,Defense Grid: The Awakening,1.263117,False
 fe6c485736bc4ed48c835290ce48099b,Delores: A Thimbleweed Park mini-adventure,1.0.89185-win,False
 03b7b25a77024cc0adf44777f791ffc4,Deponia The Complete Journey,3.3.0156.8,False
 ColumbineDemo,Detroit Become Human (Demo),International_DEMO_RETAIL_2021_10_27_2239,False
-Honeycreeper,Diabotical,0.20.465i,False
+Honeycreeper,Diabotical,0.20.466d,False
 Cajun,Diesel Brothers Truck Building Simulator Editor,1.0.222,False
 6fbbc765b38c4f2ea3d9a9caa620bae7,Discord,1.0.9003.win,False
 Daisy,Drawful 2,1.0.2,False
@@ -163,6 +163,7 @@ Cilantro,Layers of Fear,1.1.1e,False
 860a4feefe2a4f48905ae86c61d5db64,Lifeless Planet: Premier Edition,1.0.0,False
 Clover,Little Inferno,1.0,False
 f7a0ebb44f93430fb1c4388a395eba96,Loop Hero,1105,False
+4b920bb4aebf4586a4f6d823817fe32d,Mages of Mystralia,1.0,False
 stargazer,Magic The Gathering Arena,3971.904583,False
 f65978f976a944bcac6a51c5ba0afbec,Magic: Legends,CL_2021_03_12_14_37,False
 Mars2030Editor,Mars 2030 Editor,1.0.0-3905453-Windows,False
@@ -173,6 +174,7 @@ b141e42965ff431aa0e23bf3d5635942,Might & Magic: Chess Royale,3.0,False
 Petrel,Minit,0.1-staging-win32,False
 75ed4104bf1d418592fced1341cc5fed,Mortal Shell - Beta,8664,False
 ee5c6a659d0f478fba0049fa44429a1f,Mothergunship,1.0.195,False
+8e29583ae4b44a21883038668f7e301e,Moving Out,9,False
 Bulbul,MudRunner,0.7.40,False
 Falcon,Mutant Year Zero Road to Eden,23289.1,False
 1fe19232c0f7476a8e99fd8752e800c2,Mutazione,Win-1.84,False
@@ -192,6 +194,7 @@ Sage,Overcooked,1.0,False
 Potoo,Overcooked! 2,57,False
 Antbird,Paladins,468,False
 9a05967bb86f48278f8626be42548985,Path of Exile,3.16.2.17,False
+b21f394024ef4b75afc2f09c04f0b9f1,Pathfinder Kingmaker - Enhanced Plus Edition,2.1.7b.01,False
 8fceb562623c430db9bb6abf0549c43e,Pathway,1.3.3a_windows64,False
 6c227b0fac70445aae645f0d601dc5d2,Phantasy Star Online 2 New Genesis,v70300_rc_104_20211215_0046,False
 48619f5656da446abccb727b78cda644,Pikuniku,Win64_1,False
@@ -200,6 +203,7 @@ bcc75c246fe04e45b0c1f1c3fd52503a,Pillars of Eternity - Definitive Edition,1.0.11
 6d564ff21f9c45b7b782b7113ad60be8,Pine,Patch 13,False
 PixArk,PixArk,V.2.7,False
 98575e87c5eb43b5aab1d14de85eba69,Post Scriptum SDK,1.21,False
+52d88e9a6df248da913c8e99f1e4c526,PREY,1.7,False
 c279ad508db0453fa99f1d1ebb698c80,Primordials: Battle of Gods,Primordials: Battle of Gods_v0.3.90,False
 668ffa8fce0847ef9f1c005995cee6df,Prison Architect,1.7.3.1.12.13.169,False
 Auk,Q.U.B.E. 2,1.2,False
@@ -285,7 +289,7 @@ e4867c438f854da5a1d1f8c8609cac22,Tropico 5,197114[Windows],False
 UnrealTournamentDev,Unreal Tournament,++UT+Release-Next-CL-18001330,False
 UnrealTournamentEditor,UT Editor,++UT+Release-Next-CL-3525360-Windows,False
 Nautilus,Vampyr,666399-666439,False
-38c0129b680e4843b4807b98bad67027,Verdun,0.31596_Windows,False
+38c0129b680e4843b4807b98bad67027,Verdun,0.32209_Windows,False
 595e35287b824902a2f7107139603732,Void Bastards,2.0.33,False
 VRFunhouse,VR Funhouse Editor,1152528-3236574-Windows,False
 398965b67f314d31b0683b8ea11c93a4,Warframe,2021.09.08.20.27 [@18200],False
