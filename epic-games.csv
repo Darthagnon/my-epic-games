@@ -1,6 +1,6 @@
 App name,App title,Version,Is DLC
 f4e0c1dff48749fa9145c1585699e276,2064: Read Only Memories,030521a_up,False
-Quail,20XX,1.42.12rc1,False
+Quail,20XX,1.42.13rc1,False
 Flounder,"3 out of 10, EP 1: ""Welcome To Shovelworks""",R01_S01_E05_V007_CL16693,False
 1317e4e3b3ed40c289dde85b194347d3,"3 out of 10, EP 2: ""Foundation 101""",R02_S01_E02_V007_CL16693,False
 d86f9cb568014746a15f66025dcc5733,"3 out of 10, EP 3: ""Pivot Like A Champion""",R03_S01_E01_V007_CL16693,False
@@ -21,16 +21,17 @@ Condor,Alan Wake's American Nightmare,01.03,False
 8935bb3e1420443a9789fe01758039a5,Alien: Isolation,1.0RC5.284847.51533,False
 ece4c58603d04bcb97454be9a7492fa6,Amnesia:  The Dark Descent,1.5,False
 d7db33dfe7634d6b8a188c708f2caa3c,Amnesia: A Machine for Pigs,1.2,False
+f59de18db4dc445f88ffeff24d081234,Amnesia: Rebirth,1.4,False
 aa78f7be2ee64193b6b6444c5fc50157,Among the Sleep - Enhanced Edition,Windows.3.1.0.41_Win64_DLL_Fix,False
-963137e4c29d4c79a81323b8fab03a40,Among Us,2022.2.24,False
+963137e4c29d4c79a81323b8fab03a40,Among Us,1886,False
 Tanzanite,Anodyne 2: Return to Dust,Win_1.32,False
-4f50a062a8c34a259e507260a0311163,Antstream Arcade,win_2.1.2567,False
+4f50a062a8c34a259e507260a0311163,Antstream Arcade,win_2.1.2590,False
 Coley,Ape Out,1.0.0,False
 ARKDevKit,ARK Editor,344.1,False
-aafc587fbf654758802c8e41e4fb3255,ARK: Survival Evolved,344.8.win,False
+aafc587fbf654758802c8e41e4fb3255,ARK: Survival Evolved,345.3a.win,False
 Albacore,Assassins Creed Syndicate,1.54,False
 Junco,Atlas Mod Kit,535.0,False
-Chicken,Auto Chess,2.8.6,False
+Chicken,Auto Chess,2.8.9,False
 ChickenExperimental,Auto Chess Experimental,2.7.0,False
 069a60f6b0514a5fbe81b38957c1ddfd,Automachef,9,False
 dc07b9ead8214591b8df6d2546d2a0e3,Aven Colony,15,False
@@ -58,18 +59,19 @@ d45cfbdffc6d46f48395bd0fe1a42ac2,Cave Storys Secret Santa,01.06,False
 Salt,Celeste,1.4.0.0-Windows,False
 8727e9d0693542bda60769dc2ce33c20,Centipede Recharged,3,False
 bcbc03d8812a44c18f41cf7d5f849265,Cities Skylines,1.14.1-f2,False
+Arrowroot,City of Brass,1.6.3.0,False
 Silene,Close to the Sun,120,False
 ConanExiles,Conan Exiles Dev Kit,348928.32447,False
 026fa05f995646f19eb950f2cb6e7b79,Conan Exiles Mod Dev Kit Test Live,348928.32447,False
 Canary,Conarium,1.0.0.6,False
 Calluna,Control,01.13,False
-a99769d95d8f400baad1f67ab5dfe508,Core,1.0.234-prod-s-epic-3369,False
+a99769d95d8f400baad1f67ab5dfe508,Core,1.0.239-prod-s-epic-3475,False
 Violetear,Costume Quest,1,False
 82a78a4dd6ef4eaa892707791b705073,Costume Quest 2,1,False
-afdf59e3dc8f40ec8fd887b5d3fcef23,Crashlands,epic_release_1.5.87_1.5.87-rc.5_windows_1626207781026,False
-a0a49d82e3f64c1b81873397a6e92f09,Crayta,0.e5.40.115857,False
+afdf59e3dc8f40ec8fd887b5d3fcef23,Crashlands,epic_release_1.5.87_1.5.87-rc.8_windows_1650904578814,False
+a0a49d82e3f64c1b81873397a6e92f09,Crayta,0.f3.28.120518,False
 a579a08e71b341e6af106dbd170e2ab2,Creature in the Well,1.0.0-137001-1,False
-34eda78a6b24468f9fb70d73793bdaab,CRSED: F.O.A.D.,3.0.0.101-205-Windows,False
+34eda78a6b24468f9fb70d73793bdaab,CRSED: F.O.A.D.,3.0.0.138-212-Windows,False
 18fafa2d70d64831ab500a9d65ba9ab8,Crying Suns,2.2.5.14-WIN64,False
 f4f0d39fbb4640e0be62aa91d9eca87d,DAEMON X MACHINA,1.0.6,False
 c35b9699c4e24c56976b5bd8eceba464,Dandara: Trials of Fear Edition,1.4.11-pc,False
@@ -79,13 +81,14 @@ e9c881bda9744b3b8513cd5419565a0d,Darkest Dungeon®: The Musketeer,25681.8,True
 Hoki,Darksiders II Deathinitive Edition,1.0,False
 Hake,Darksiders Warmastered Edition,1.0,False
 ee96375fac2f47de978170a24398e581,DARQ,1.3.2d,False
-Jackal,Dauntless,1.9.4.343363,False
+Jackal,Dauntless,1.10.1.352449,False
 Kingfisher,Days of War Editor,1.5,False
 7f784f23084045e68c4dc8febb5b2cc2,DCL The Game - Track Editor,1.4.28051,False
-Brill,Dead by Daylight,5.6.1.2,False
+Brill,Dead by Daylight,5.7.0.9,False
 2333810845fd49a286baf29f9b58f9ae,Death Coming,1.1.713,False
 a434dcb20f0d439b93aaa31dac9e3210,Defense Grid: The Awakening,1.263117,False
 fe6c485736bc4ed48c835290ce48099b,Delores: A Thimbleweed Park mini-adventure,1.0.89185-win,False
+b8b37813c5634dbdac61d88ff411135c,DEMON'S TILT,SoundFix,False
 03b7b25a77024cc0adf44777f791ffc4,Deponia The Complete Journey,3.3.0156.8,False
 ColumbineDemo,Detroit Become Human (Demo),International_DEMO_RETAIL_2021_10_27_2239,False
 Honeycreeper,Diabotical,0.20.468,False
@@ -95,7 +98,7 @@ Daisy,Drawful 2,1.0.2,False
 351fe5b32e22412d8fa41f4c7395fed1,Dungeons 3,v1.7 build13 @c33954b v11,False
 9c203b6ed35846e8a4a9ff1e314f6593,Elite Dangerous,3.8.281897,False
 Garlic,Enter the Gungeon,2.1.9a,False
-da0103e959e54d139d0c109ded3b3672,Europa Universalis IV,EU4-v1.33.2.0-France-108e-windows-live-98,False
+da0103e959e54d139d0c109ded3b3672,Europa Universalis IV,EU4-v1.33.3.0-France-5010-windows-live-106,False
 8ffdd5b12ad4414d8166914606f88e18,Europa Universalis IV: Catholic Majors Unit Pack,V4_a3fec1d35492572c3bb0,True
 3d5eb5018d7644d38052f6e1e2d57c81,Europa Universalis IV: Songs of Yuletide,V4_9d8a530b788df63dceea,True
 Pelican,Everything,1.08,False
@@ -105,19 +108,19 @@ Bluebird,Fez,1.12.0,False
 ed5e8d42b2ac461eb6f9176d163b9515,Figment,v1.4.0_2020-03-29_3ceaeed,False
 bf35243e8c3542e082bc7042e0592183,Football Manager 2020,1260-win,False
 Discus,For The King,45,False
-Fortnite,Fortnite,++Fortnite+Release-20.00-CL-19381079-Windows,False
+Fortnite,Fortnite,++Fortnite+Release-20.20-CL-19896998-Windows,False
 b2e00fc16632475782a7730d1bd7cb60,Frostpunk,0.0.10,False
 5f1c66366b2c4a6496d535d88c56e6cf,Galactic Civilizations III,4.21.273666a,False
 8931f79300d04c5889799bffc8ef70bd,Galactic Civilizations III (Test branch),4.21.273666a,False
-41869934302e4b8cafac2d3c0e7c293d,Genshin Impact,48,False
+41869934302e4b8cafac2d3c0e7c293d,Genshin Impact,51,False
 Mint,Ghostbusters The Video Game Remastered,retail10,False
 Penguin,GNOG,1.0-Win,False
 9bc4423d873845739cc99ab69b6bfbe9,God's Trigger,1.2.58760.3,False
-Carp,Godfall,4.1.9-prod-stable,False
+Carp,Godfall,5.0.118-prod-stable,False
 69911638c74449d2a2651241be1b3ad4,Gods Will Fall,78,False
 Flier,Gone Home,1.3.3,False
 Emperor,GoNNER,ItsnotGonner2,False
-9d2d0eb64d5c44529cece33fe2a46482,Grand Theft Auto V,1.0.2545.0.1,False
+9d2d0eb64d5c44529cece33fe2a46482,Grand Theft Auto V,1.0.2612.1.0,False
 c1af97233f7e466d8412f7d42c6d4b67,Gravewood High - Alpha 2 Free Demo,0.2.2,False
 b8bdc716e79e461bbf161d99f842f29a,Guild of Dungeoneering,0.02,False
 b9e848fc5e844f4285b0624789476664,Halcyon 6,1.4.3.5,False
@@ -128,7 +131,7 @@ Sunflower,Helium Rain Mod Kit,1.0.7,False
 HelloNeighborEditor,Hello Mod Kit,1.6,False
 Ursus,Hello Neighbor,1.4.1,False
 MorphoDemo,Hello Neighbor Hide and Seek Demo,1.0.0,False
-8836f84a700140bb86103556cd7db0d4,Heroes & Generals WWII,live-170154,False
+8836f84a700140bb86103556cd7db0d4,Heroes & Generals WWII,live-170429,False
 Barbet,HITMAN,4226454,False
 Eider,HITMAN 3,5561401,False
 4145c668a0c94f1db16de2cbfbc60309,HITMAN 1 Complete First Season,7,True
@@ -139,20 +142,22 @@ bb406082b69a47208489d3616b22b5c2,Horizon Chase Turbo,2.0.202126111102,False
 Herring,Hue,1.0,False
 27d75b28777c498ab553bdf05e4621cb,HUMANKIND™ Demo,1.4.303_Release,False
 Parakeet,Hyper Light Drifter,1.0.0,False
-40cb42e38c0b4a14a1bb133eb3291572,Idle Champions of the Forgotten Realms,IdleDragons42164Live,False
+40cb42e38c0b4a14a1bb133eb3291572,Idle Champions of the Forgotten Realms,IdleDragons433264Live,False
 29ee5d32f328471590b3bd3ac03ed7d0,In Sound Mind,1.022,False
 Almond,InnerSpace,1.0.0c,False
 Marigold,Inside,1.0.0,False
 Bass,Insurgency: Sandstorm - Mod Tools & Editor,1.11.4.8,False
+8b556e7471ac46eda46445d93fa2e73f,Insurmountable,2.0.7.1,False
 Blobfish,Into The Breach,1.2.24,False
 ac8f20a7931e4d63a1db4dc1267ec3d1,Ironcast,1.0.1,False
 8bee68c078d946e9a0678941d4c7a733,itch.io,itch-setup 1.26.0 win64,False
 Grouse,Jotun Valhalla Edition,1.02,False
 373a4372c20540aca7fdd880d27fa49a,Jurassic World Evolution,1.12.7.54973,False
 Kakopo,Just Cause 4,JC4_2226912_1830540,False
+06621054d7d24f44bf13e3c31c9ec05d,Just Die Already,1.3.6.1.1,False
 819985835fd54090845e3083e28b77bb,Ken Follett's The Pillars of the Earth,1.2.12950-64Bit,False
 33411619626243f1859d0b7fb5cc5405,KID A MNESIA EXHIBITION,0.0333.012725,False
-Finch,Killing Floor 2,431768-2021_12_06_16h21m41s,False
+Finch,Killing Floor 2,442034-2022_03_15_13h22m53s,False
 3223ccf6ac9b4189bd4e144c047d33fb,KillingFloor2Beta,NOVERSION-2020-09-23 17:04:58.505000,False
 Eel,Kingdom Come Deliverance,1.9.6-404-504ach2,False
 EelSoundPack,HD Sound Pack,1.9.4.404-502,True
@@ -163,12 +168,12 @@ EelVoiceGerman,HD Voice Pack - German,1.9.4.404-502,True
 cacao,Kingdom New Lands,1.2.8-r2121-Windows,False
 Cilantro,Layers of Fear,1.1.1e,False
 473e24df09f843a1acc4aa16b01dae83,Layers of Fear 2,1.0.0.0,False
-64b0c77d07f644e6a2326a1fd7ab9926,League of Legends,4098838-28690,False
+64b0c77d07f644e6a2326a1fd7ab9926,League of Legends,4352238-29145,False
 860a4feefe2a4f48905ae86c61d5db64,Lifeless Planet: Premier Edition,1.0.0,False
 Clover,Little Inferno,1.0,False
-f7a0ebb44f93430fb1c4388a395eba96,Loop Hero,1105,False
+f7a0ebb44f93430fb1c4388a395eba96,Loop Hero,1530,False
 4b920bb4aebf4586a4f6d823817fe32d,Mages of Mystralia,1.0,False
-stargazer,Magic The Gathering Arena,4045.919546,False
+stargazer,Magic The Gathering Arena,4096.927350,False
 f65978f976a944bcac6a51c5ba0afbec,Magic: Legends,CL_2021_03_12_14_37,False
 Mars2030Editor,Mars 2030 Editor,1.0.0-3905453-Windows,False
 HoopoeEditor,MechWarrior 5 Editor,1.0.314.0e,False
@@ -183,8 +188,8 @@ Bulbul,MudRunner,0.7.40,False
 Falcon,Mutant Year Zero Road to Eden,23289.1,False
 1fe19232c0f7476a8e99fd8752e800c2,Mutazione,Win-1.84,False
 Cobra,My Time at Portia,2.0.20210813,False
-639977eecfd2497c941b71af949b5067,NBA 2K21,1.12.253557,False
-a26f991a5e6c4e9c9572fc200cbea47f,Neon Abyss,Release_59,False
+639977eecfd2497c941b71af949b5067,NBA 2K21,1.12.135040,False
+a26f991a5e6c4e9c9572fc200cbea47f,Neon Abyss,Release_80,False
 f38de9fa4c6d43eabac080942cb394a1,Never Alone (Kisima Ingitchuna),NeverAlone-Win-1.1.12,False
 87be9bd6707748888bce1f79b025c5dd,Neverwinter,CL_2020_09_25_09_51,False
 Sumac,Next Up Hero,0.0.16,False
@@ -196,20 +201,21 @@ Turaco,Nuclear Throne,1,False
 Snapper,Offworld Trading Company,161,False
 Sage,Overcooked,1.0,False
 Potoo,Overcooked! 2,91,False
-Antbird,Paladins,536,False
-9a05967bb86f48278f8626be42548985,Path of Exile,3.17.3.6,False
+Antbird,Paladins,567,False
+7a2c2b2504844b2c9c96bc08a12da647,Paradigm,1.025,False
+9a05967bb86f48278f8626be42548985,Path of Exile,3.17.4.12,False
 b21f394024ef4b75afc2f09c04f0b9f1,Pathfinder Kingmaker - Enhanced Plus Edition,2.1.7b.01,False
 8fceb562623c430db9bb6abf0549c43e,Pathway,1.4.0_windows64,False
-6c227b0fac70445aae645f0d601dc5d2,Phantasy Star Online 2 New Genesis,v70400_rc_97_20220311_0238,False
+6c227b0fac70445aae645f0d601dc5d2,Phantasy Star Online 2 New Genesis,v70500_rc_86_20220415_1856,False
 48619f5656da446abccb727b78cda644,Pikuniku,Win64_1,False
 bcc75c246fe04e45b0c1f1c3fd52503a,Pillars of Eternity - Definitive Edition,1.0.11,False
 8e975c15166a4a1ca28d65fdfa411248,Pillars of Eternity - Definitive Edition Pack,1.0.0,True
 6d564ff21f9c45b7b782b7113ad60be8,Pine,Patch 13,False
 PixArk,PixArk,V.2.7,False
 98575e87c5eb43b5aab1d14de85eba69,Post Scriptum SDK,1.21,False
-52d88e9a6df248da913c8e99f1e4c526,PREY,1.7,False
+52d88e9a6df248da913c8e99f1e4c526,PREY,1.8,False
 c279ad508db0453fa99f1d1ebb698c80,Primordials: Battle of Gods,Primordials: Battle of Gods_v0.3.90,False
-668ffa8fce0847ef9f1c005995cee6df,Prison Architect,1.9.2.1.2.21.93,False
+668ffa8fce0847ef9f1c005995cee6df,Prison Architect,1.9.3.1.3.11.1437,False
 Auk,Q.U.B.E. 2,1.2,False
 ad3d0f08dd0841d8a1ba77d94ded4773,Rage 2,1.8,False
 8cf7c6b964514532ad8284a376a517bf,Railway Empire,1.14.1.27369,False
@@ -219,15 +225,16 @@ b4670484aae24db492f0b468a98fe361,Relicta,1.1.0,False
 b4a0d2d15acb4db894a599b810297543,Remnant: From the Ashes,Remnant_Win64_Shipping_275957,False
 f7cc1c999ac146f39b356f53e3489514,Rise of the Tomb Raider: 20 Year Celebration,TR2_30112021_1027.0_1224023_303770_132827583431143041_,False
 Tern,Rising Storm 2: Vietnam,20210514-403690-36,False
+087f062df2574091a67fe614a6ec15a4,Riverbond,12,False
 OdinEditor,Robo Recall Mod Kit,++Odin+Release-CL-3792635-Windows,False
-Sugar,Rocket League®,BC2_Update37+368596c,False
-Pewee,Rogue Company,1368,False
+Sugar,Rocket League®,BC2_Update37.2+376508,False
+Pewee,Rogue Company,1431,False
 281a47e363284108b82bf05c1a612145,RollerCoaster Tycoon® 3: Complete Edition,3.2.5.13,False
 Laridae,RUINER,1.0.4,False
 Loon,Saints Row The Third Remastered,SRTTR_20211028_epic_14th_patch,False
 499f085e442048aa854d6250b21c42fb,Salt and Sanctuary,1.0.0.2a,False
 75553c71fa1744a4be89f71d5b862eae,SAMURAI SHODOWN NEOGEO COLLECTION,1.0.5.4,False
-502bae648130454faa79bf1e7e741cbd,Scavengers,379_Possible_Nevada_CL218140_live_SHIP,False
+502bae648130454faa79bf1e7e741cbd,Scavengers,525_Buoyant_Goldie_CL219078_live_SHIP,False
 18a85afedeac4ea885b27fee3e0c81db,Second Extinction™,0.0.335,False
 890d9cf396d04922a1559333df419fed,Shadow of the Tomb Raider: Definitive Edition,TR11_09122021_458.0_1224786_740558_132835443930078066_,False
 Fangtooth,Shadow Tactics: Blades of the Shogun,2.2.11.F.Windows_EpicStore.2022_02_11_1437,False
@@ -237,18 +244,18 @@ dc29cb42f32e4a17af1d68c715fa459c,Shadowrun Returns,1.0.0,False
 b9af0845f9d64b0d9e851d9811141f67,Sheltered,123,False
 0afb9d54dd3743a582b48b506466d3f8,Sherlock Holmes Crimes and Punishments,76601.1,False
 Showmaker,Showmaker Dev Kit,1.02-4372153-Windows,False
-Kinglet,Sid Meier's Civilization VI,1.0.12.564030l_rtm,False
-KingletAztec,Civilization VI : Aztec DLC,1.0.12.564030l_rtm,True
+Kinglet,Sid Meier's Civilization VI,1.0.12.564030m_rtm,False
+KingletAztec,Civilization VI : Aztec DLC,1.0.12.564030m_rtm,True
 Morganite,Sludge Life,V201003,False
-Greenbul,SMITE,905,False
+Greenbul,SMITE,951,False
 4c76beac4e8a4156aa8dfb9c6db09746,Solitairica,Solitairica 1.1.13,False
 Emu,SOMA,1.62,False
 818447bb519b46d48d365d5753362796,Sonic Mania,1.07.0035,False
 6ffe878bb1ce490ba6d3a359a1f88df2,Speed Brawl,1.5-cbf526615d,False
 Newt,Spellbreak,release.15058-7706,False
 7b92cb9582b04a36b629321e848b12a1,SpellForce 3: Versus,1.3a,False
-2b04bd96d2c34822b37c91ece7fa5f1c,Spotify Music,1.1.81.604.gccacfc8c-16_Windows,False
-Squad,Squad Editor,modsdk-202203011200,False
+2b04bd96d2c34822b37c91ece7fa5f1c,Spotify Music,1.1.83.956.gbe7ea9a7-21_Windows,False
+Squad,Squad Editor,modsdk-202204121200,False
 0fb6e06aacd14e88b1aaea8f54dd8525,Star Trek Online,CL_2020_09_25_09_51,False
 Barracuda,Steep,1.00,False
 Goldfish,Stick it to the Man,0.9.91,False
@@ -258,7 +265,7 @@ Goldfish,Stick it to the Man,0.9.91,False
 Moa,Sundered Eldritch Edition,1,False
 2420b50453144c07b3b847fff941275d,Sunless Sea,2.2.10.3198-Windows,False
 f6d328ca5be24fd585478d1477e1ea4d,Superbrothers: Sword & Sworcery EP,1.02,False
-Ovenbird,Surviving Mars,1.4_Merbold.1010838-Windows,False
+Ovenbird,Surviving Mars,1.5_Fuglesang.1011146-Windows,False
 Flagfin,Tacoma,1.0,False
 0dac2fd1f95240bda133d1f2fb27c705,Tales of the Neon Sea,1.0.84,False
 266d978cc221471787b597695cbb9a75,Tharsis,1.03,False
@@ -270,7 +277,7 @@ Peony,The Escapists,dev_n43,False
 Fowl,The Escapists 2,0.24,False
 cd98b47155654e1f9a9e84e60d0b49e4,The First Tree,1.0.0.32,False
 ee41ac4954314d18b18b8e7789c4e4eb,The Lion's Song,tls_windows_master_standalone_691,False
-ed93b18355a84230938c705121c63661,The Long Dark,PC_1.99_87977,False
+ed93b18355a84230938c705121c63661,The Long Dark,PC_2.00C,False
 Jay,The Messenger,2.0.2.4,False
 7b8fb449c8d3404ba7eda9cd4da1401b,The Spectrum Retreat,1.0rc,False
 Freesia,The Stanley Parable,1.0,False
@@ -287,10 +294,11 @@ Towhee,Ticket to Ride,2.7.11-6980-90471d26-win,False
 d6264d56f5ba434e91d4b0a0b056c83a,Tomb Raider GAME OF THE YEAR EDITION,"TRAS_15112021_838.0_1224060,275025(132814434654404397)",False
 8e425d507bd6473dbb927f0fea8ef4f6,Torchlight II,1.25.9.5,False
 Goby,Tormentor X Punisher,txp12,False
+30d3a88d29e24716ac5a4720042289f7,Total War: WARHAMMER,15736.2453526,False
 Driftfish,Totally Accurate Battle Simulator,1.0.7_01_win64,False
 Hoatzin,Totally Reliable Delivery Service,2.03.03-win,False
 Pigeon,Trackmania,1.1,False
-dd75b5c168d546cc869582c0389f0a1d,Train Sim World 2,1.0.151,False
+dd75b5c168d546cc869582c0389f0a1d,Train Sim World 2,1.0.159,False
 e4867c438f854da5a1d1f8c8609cac22,Tropico 5,197114[Windows],False
 8b5f1c51be3844bab51e2ee1089839f5,Map Pack,197106[Windows],True
 36b0e40890f147fbb1e3965f87369156,Tyranny - Gold Edition,1.0.21,False
@@ -298,11 +306,11 @@ e4867c438f854da5a1d1f8c8609cac22,Tropico 5,197114[Windows],False
 UnrealTournamentDev,Unreal Tournament,++UT+Release-Next-CL-18001330,False
 UnrealTournamentEditor,UT Editor,++UT+Release-Next-CL-3525360-Windows,False
 Nautilus,Vampyr,666399-666439,False
-38c0129b680e4843b4807b98bad67027,Verdun,0.33151_Windows,False
+38c0129b680e4843b4807b98bad67027,Verdun,0.34546_Windows,False
 595e35287b824902a2f7107139603732,Void Bastards,2.0.33,False
 VRFunhouse,VR Funhouse Editor,1152528-3236574-Windows,False
 398965b67f314d31b0683b8ea11c93a4,Warframe,2021.09.08.20.27 [@18200],False
-2cd446792405468e9e87f67649d864c2,Wargame: Red Dragon,68335,False
+2cd446792405468e9e87f67649d864c2,Wargame: Red Dragon,72352,False
 Jasper,Watch Dogs,1.0,False
 Angelonia,Watch Dogs 2,1.0,False
 Escolar,Wheels of Aurelia,test11,False
@@ -310,8 +318,9 @@ e8964b869b6849bea41eefec766cd665,Where The Water Tastes Like Wine,1.0,False
 4f272a49a39742b795d63e1f483a7c7d,while True: learn(),1.4.98.5144.39.win64,False
 9b40e3ffb4074f22a856a521be5ce858,Wilmot's Warehouse,1.0.7,False
 a95bf4df6627431ca5baff8173c59635,Windbound,1.3.40746.206,False
-a79746038c6948558274065d24f3faa3,World of Warships,0.11.2.1.5343985-5344865-multiversion,False
-Wombat,World War Z,2.06,False
+a79746038c6948558274065d24f3faa3,World of Warships,0.11.3.0.5450485-5451261-multiversion,False
+Wombat,World War Z,2.07,False
+3be3c4d681bc46b3b8b26c5df3ae0a18,XCOM 2,1.0.1_CL-732258,False
 3acb0920074446e8baaa4c249200d892,Yoku's Island Express,2021-09-26_11_01_07,False
 ce2a78bf70b646e9b9f57c46dac99184,Yooka-Laylee,30,False
 Duckbill,Yooka-Laylee and the Impossible Lair,1.0.28131,False
